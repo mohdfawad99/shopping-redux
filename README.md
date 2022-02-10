@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# [A Basic Shopping List App using ReactJS and Redux](https://mohdfawad99.github.io/shopping-redux/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
